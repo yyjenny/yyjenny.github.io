@@ -1,0 +1,61 @@
+body{
+	background-color:brown;
+
+}
+p{
+	font-family:"Georgia",sans-serif;
+	font-size:17px;
+	font-weight:normal;
+	font-style:normal;
+}
+
+.headline{
+	color:brown;
+	font-family:Monaco;
+	font-weight:bold;
+	font-size: 30px;
+}
+
+
+
+div{
+
+	margin:10px;
+	margin: 0 150px;
+	padding:5px 200px;
+	background-color: pink;
+	text-align: center;
+}
+
+
+#text{
+	margin: 5px 10px;
+	padding:5px;
+	background-color: brown;
+}
+
+#title_music {
+	color: brown;
+	background-color: pink;
+
+}
+
+#games{
+
+	/*<div id="games" style="color:white;font-family: 'Caveat Brush', cursive;font-size: 80px;">*/
+	/*Games*/
+	/*</div>*/
+	margin: 10px 10px;
+	padding:10px;
+	background-color: brown;
+}
+
+#zbc{
+	text-align: center;
+}
+
+#ga{
+	margin: 0px 6px;
+	padding:15px;
+	background-color: brown;
+}
